@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Randomizly
+//  projekt_converter
 //
-//  Created by Jakob Wiemer on 27.02.19.
+//  Created by Jakob Wiemer on 06.03.19.
 //  Copyright © 2019 Jakob Wiemer. All rights reserved.
 //
 

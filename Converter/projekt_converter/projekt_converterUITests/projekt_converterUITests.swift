@@ -1,14 +1,14 @@
 //
-//  RandomizlyUITests.swift
-//  RandomizlyUITests
+//  projekt_converterUITests.swift
+//  projekt_converterUITests
 //
-//  Created by Jakob Wiemer on 27.02.19.
+//  Created by Jakob Wiemer on 06.03.19.
 //  Copyright © 2019 Jakob Wiemer. All rights reserved.
 //
 
 import XCTest
 
-class RandomizlyUITests: XCTestCase {
+class projekt_converterUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

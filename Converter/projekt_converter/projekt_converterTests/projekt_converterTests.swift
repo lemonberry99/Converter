@@ -1,15 +1,15 @@
 //
-//  RandomizlyTests.swift
-//  RandomizlyTests
+//  projekt_converterTests.swift
+//  projekt_converterTests
 //
-//  Created by Jakob Wiemer on 27.02.19.
+//  Created by Jakob Wiemer on 06.03.19.
 //  Copyright © 2019 Jakob Wiemer. All rights reserved.
 //
 
 import XCTest
-@testable import Randomizly
+@testable import projekt_converter
 
-class RandomizlyTests: XCTestCase {
+class projekt_converterTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
